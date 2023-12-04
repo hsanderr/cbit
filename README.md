@@ -1,2 +1,2 @@
 # cbit
-C macros to handle bit operations.
+C macros to handle bit operations with 8-bit variables.
